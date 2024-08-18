@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#main{
+    padding: 50px 50px;
+    background: teal;
+    height: 500px;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background:white;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.tanvirsgf{
+    height: 200px;
+    width: 200px;
+    background: pink;
+}
